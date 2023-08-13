@@ -2,48 +2,63 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: '資料準備與專家訪談',
+    eng_title: 'Information Gathering and Expert Interviews',
+    desc: '每週三小松討論議題素材，專家訪談並準備線上意見徵集。',
+    img_url: '/interview.svg'
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: '意見徵集',
+    eng_title: 'Public Opinion Collection',
+    desc: '預計於 8 月 14 日至 9 月 14 日間進行為期一個月的線上意見徵集。',
+    img_url: '/speech.svg'
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: '諮詢會議',
+    eng_title: 'Consulation Meeting',
+    desc: '於 9 月 24 日預計召開實體諮詢會議，現場將有直播設備全程紀錄討論內容與過程。',
+    img_url: '/meeting.svg'
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: '意見彙整',
+    eng_title: 'Opinion Compilation',
+    desc: '整理議題討論的結果，匯集各方意見。',
+    img_url: '/organise.svg'
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: '撰寫報告',
+    eng_title: 'Report Writing',
+    desc: '撰寫階段性報告並公開到 vTaiwan 網站上。',
+    img_url: '/writing.svg'
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  '意見投票。針對每個意見投票「同意」、「不同意」或「不知道」',
+  '貢獻意見。加入自己的意見。',
+  '追蹤近況。查看即時投票與統計結果。',
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: '/writing.svg',
+    title: '登記報名',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        '即刻起，登記報名諮詢會議，成為諮詢會議中的一員。',
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: '/location_time.svg',
+    title: '時間地點',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        '諮詢會議預計 9/24，在XXXXXX辦理。',
   },
 ];
 
@@ -69,20 +84,21 @@ export const insights = [
 ];
 
 export const socials = [
-  {
-    name: 'twitter',
-    url: '/twitter.svg',
-  },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-  },
-  {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
+  // {
+  //   name: 'twitter',
+  //   url: '/twitter.svg',
+  // },
+  // {
+  //   name: 'linkedin',
+  //   url: '/linkedin.svg',
+  // },
+  // {
+  //   name: 'instagram',
+  //   url: '/instagram.svg',
+  // },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: 'https://www.facebook.com/vtaiwan.tw/'
   },
 ];

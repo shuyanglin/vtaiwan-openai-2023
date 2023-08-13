@@ -20,9 +20,9 @@ const Explore = () => {
         viewport={{ once: false, amount: 0.25 }}
         className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
-        <TypingText title="| The World" textStyles="text-center" />
+        <TypingText title="意見徵集流程 | vTaiwan process" textStyles="text-center" />
         <TitleText
-          title={<>Choose the world you want <br className="md:block hidden" /> to explore</>}
+          title={<>公民參與塑造 AI 人工智慧的未來</>}
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">

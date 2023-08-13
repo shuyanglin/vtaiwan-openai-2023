@@ -14,13 +14,13 @@ const Home = () => (
       <GetStarted />
       <div className="gradient-04 z-0" />
       <WhatsNew />
-    </div>
+    </div>{/* 
     <World />
     <div className="relative">
       <Insights />
       <div className="gradient-04 z-0" />
       <Feedback />
-    </div>
+    </div> */}
     <Footer />
   </div>
 );
