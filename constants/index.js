@@ -3,41 +3,41 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/planet-01.png',
     title: '資料準備與專家訪談',
-    eng_title: 'Information Gathering and Expert Interviews',
+    engTitle: 'Information Gathering and Expert Interviews',
     desc: '每週三小松討論議題素材，專家訪談並準備線上意見徵集。',
-    img_url: '/interview.svg'
+    imgSrc: '/interview.svg'
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
     title: '意見徵集',
-    eng_title: 'Public Opinion Collection',
+    engTitle: 'Public Opinion Collection',
     desc: '預計於 8 月 14 日至 9 月 14 日間進行為期一個月的線上意見徵集。',
-    img_url: '/speech.svg'
+    imgSrc: '/speech.svg'
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
     title: '諮詢會議',
-    eng_title: 'Consulation Meeting',
+    engTitle: 'Consulation Meeting',
     desc: '於 9 月 24 日預計召開實體諮詢會議，現場將有直播設備全程紀錄討論內容與過程。',
-    img_url: '/meeting.svg'
+    imgSrc: '/meeting.svg'
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
     title: '意見彙整',
-    eng_title: 'Opinion Compilation',
+    engTitle: 'Opinion Compilation',
     desc: '整理議題討論的結果，匯集各方意見。',
-    img_url: '/organise.svg'
+    imgSrc: '/organise.svg'
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
     title: '撰寫報告',
-    eng_title: 'Report Writing',
+    engTitle: 'Report Writing',
     desc: '撰寫階段性報告並公開到 vTaiwan 網站上。',
-    img_url: '/writing.svg'
+    imgSrc: '/writing.svg'
   },
 ];
 

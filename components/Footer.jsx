@@ -1,4 +1,5 @@
 'use client';
+
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { socials } from '../constants';
@@ -45,12 +46,12 @@ const Footer = () => (
           <div className="flex gap-4">
             {socials.map((social) => (
               <Link href={social.link}>
-              <img
-                key={social.name}
-                src={social.url}
-                alt={social.name}
-                className="w-[24px] h-[24px] object-contain cursor-pointer"
-              />
+                <img
+                  key={social.name}
+                  src={social.url}
+                  alt={social.name}
+                  className="w-[24px] h-[24px] object-contain cursor-pointer"
+                />
               </Link>
             ))}
           </div>
