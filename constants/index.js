@@ -65,38 +65,25 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'title',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'subtitle',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'title',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'subtitle',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'title',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'subtitle',
   },
 ];
 
-export const socials = [
-  // {
-  //   name: 'twitter',
-  //   url: '/twitter.svg',
-  // },
-  // {
-  //   name: 'linkedin',
-  //   url: '/linkedin.svg',
-  // },
-  // {
-  //   name: 'instagram',
-  //   url: '/instagram.svg',
-  // },
-  {
+export const socials = [{
     name: 'facebook',
     url: '/facebook.svg',
     link: 'https://www.facebook.com/vtaiwan.tw/'
