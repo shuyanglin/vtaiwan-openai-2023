@@ -25,7 +25,7 @@ const Navbar = () => (
         vTaiwan x OpenAI
       </h2>
       <img
-        src="/menu.svg"
+        src="/openai_logo.png"
         alt="menu"
         className="w-[24px] h-[24px] object-contain"
       />
