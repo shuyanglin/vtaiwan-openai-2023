@@ -19,7 +19,7 @@ export const exploreWorlds = [
     id: 'world-3',
     imgUrl: '/planet-03.png',
     title: '諮詢會議',
-    engTitle: 'Consulation Meeting',
+    engTitle: 'Consultation Meeting',
     desc: '於 9 月 24 日預計召開實體諮詢會議，現場將有直播設備全程紀錄討論內容與過程。',
     imgSrc: '/meeting.svg'
   },
