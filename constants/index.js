@@ -58,7 +58,7 @@ export const newFeatures = [
     imgUrl: '/location_time.svg',
     title: '時間地點',
     subtitle:
-        '諮詢會議預計 9/24，在集思會議中心辦理。',
+        '諮詢會議預計 9/24（日）14:00-16:30 於台北召開，場地待確認。',
   },
 ];
 
