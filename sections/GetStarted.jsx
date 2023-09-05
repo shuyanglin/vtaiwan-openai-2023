@@ -21,7 +21,7 @@ const GetStarted = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/AI_cover03.png"
+          src="/vTaiwan x OpenAI _線上意見徵集.jpg"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />

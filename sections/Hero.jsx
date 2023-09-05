@@ -19,12 +19,12 @@ const Hero = () => (
         意見徵集中
         </motion.h1>
        
-        <motion.div
+        {/* <motion.div
           variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center"
         >
           <h3 className={styles.heroTagline}>AI 人工智慧應該遵循怎樣的價值觀與標準？</h3>
-        </motion.div>
+        </motion.div> */}
       </div>
 
       <motion.div
@@ -34,7 +34,7 @@ const Hero = () => (
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
 
         <img
-          src="/AI_cover.png"
+          src="/vTaiwan x OpenAI ＿01 .png"
           alt="hero_cover"
           className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
         />

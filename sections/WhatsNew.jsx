@@ -34,7 +34,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/AI_cover02.png"
+          src="/vTaiwan x OpenAI _實體意見徵集.jpg"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />
